@@ -50,8 +50,6 @@ Letterboxd film veri seti üzerine yapılmış uçtan uca bir veri analizi ve ma
 ```
 ├── data/                  # Ham/işlenmiş veri (varsa)
 ├── notebooks/             # Jupyter/Colab notebook(lar)
-├── dashboard.pbix         # Power BI dashboard dosyası
-├── dashboard_screenshot.png  # Dashboard önizlemesi
 ├── presentation.pptx      # Proje sunumu
 └── README.md
 ```
